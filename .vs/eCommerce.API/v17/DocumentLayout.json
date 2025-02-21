@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\C#\\ADO.NET\\eCommerce.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF173525-408E-4BDE-AE29-781FA88E8A00}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\c#\\ado.net\\ecommerce.api\\ecommerce.api\\repositories\\usuarioprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF173525-408E-4BDE-AE29-781FA88E8A00}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\repositories\\usuarioprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF173525-408E-4BDE-AE29-781FA88E8A00}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\amd\\onedrive - funda\u00E7\u00E3o salvador arena\\c#\\ado.net\\ecommerce.api\\ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF173525-408E-4BDE-AE29-781FA88E8A00}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioProcedureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\C#\\ADO.NET\\eCommerce.API\\eCommerce.API\\Repositories\\UsuarioProcedureRepository.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Repositories\\UsuarioProcedureRepository.cs",
+              "ToolTip": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\C#\\ADO.NET\\eCommerce.API\\eCommerce.API\\Repositories\\UsuarioProcedureRepository.cs",
+              "RelativeToolTip": "eCommerce.API\\Repositories\\UsuarioProcedureRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:27:31.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\C#\\ADO.NET\\eCommerce.API\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\AMD\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\C#\\ADO.NET\\eCommerce.API\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAcwHsBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:01:49.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
